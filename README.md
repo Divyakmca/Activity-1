@@ -1,5 +1,3 @@
-
-
 Dependencies and Installation 
 
 *FrontEnd
@@ -16,5 +14,5 @@ Dependencies and Installation
 3. concurrently - npm intall --save concurrently
 4. cors - npm install --save cors
 
-To run the code server side
+To run the code server side - 
 npm run dev
